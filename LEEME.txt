@@ -1,0 +1,14 @@
+LEONARDO - 10 AÑOS
+18 de octubre de 2026, 13:30, Cochabamba.
+Confirmaciones y consultas: +591 73791008.
+Digital Pro: +591 79352293.
+
+PUBLICAR EN GITHUB PAGES
+1. Extrae este ZIP.
+2. Sube index.html, estilo.css, futbol.css, invitacion.js, leonardo.ics y la carpeta assets al repositorio, conservando las carpetas. No subas solamente el ZIP.
+3. En Settings > Pages, selecciona Deploy from a branch, main y / (root). Guarda.
+4. Comparte la URL que te indique GitHub Pages cuando termine de publicar.
+
+La música y los goles comienzan al tocar la pelota. La música tiene control de pausa. Los goles duran 51,83 segundos: el corte solicitado se aplicó a los 51,84 segundos y el video se exportó a 24 fps.
+El botón Compartir usa la URL de la publicación y evita compartir localhost.
+No se necesitan contraseñas ni servidor adicional. El calendario utiliza la hora de Bolivia.
